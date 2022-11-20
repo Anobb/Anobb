@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bbnolauv
-- 👀 I’m interested in arch and vim
+- 👀 I’m interested in archlinux and vim
 - 😊 Nice to meet you guys
 <!---
 bbnolauv/Anobb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
